@@ -1,0 +1,58 @@
+#GPS [1.2575321, 4.405112, -0.02946224]
+#CAMROT [0.22109997|0.39090908|0.0973129|0.8881639]
+#START
+path = crap.obj
+location = [20.564026, -20.280344, -20.820498]
+scale = [1.0, 1.0, 1.0]
+rotation = [0.0|0.0|0.0|1.0]
+script = 
+
+#END
+#START
+path = Teapot
+location = [33.705273, -17.220034, -20.782625]
+scale = [1.0, 1.0, 1.0]
+rotation = [0.0|0.0|0.0|1.0]
+script = 
+
+#END
+#START
+path = Teapot
+location = [28.200487, -19.574574, -31.945793]
+scale = [1.0, 1.0, 1.0]
+rotation = [0.0|0.0|0.0|1.0]
+script = 
+
+#END
+#START
+path = Teapot
+location = [22.245338, -20.49508, -31.593552]
+scale = [1.0, 1.0, 1.0]
+rotation = [0.0|0.0|0.0|1.0]
+script = 
+
+#END
+#START
+path = Teapot
+location = [15.890728, -22.351349, -31.205128]
+scale = [1.0, 1.0, 1.0]
+rotation = [0.0|0.0|0.0|1.0]
+script = 
+
+#END
+#START
+path = Teapot
+location = [11.620084, -22.20694, -20.40161]
+scale = [1.0, 1.0, 1.0]
+rotation = [0.0|0.0|0.0|1.0]
+script = 
+
+#END
+#START
+path = Teapot
+location = [19.53742, -18.228733, -5.9548445]
+scale = [1.0, 1.0, 1.0]
+rotation = [0.0|0.0|0.0|1.0]
+script = 
+
+#END

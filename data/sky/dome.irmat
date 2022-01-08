@@ -1,0 +1,5 @@
+#START None
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.8,0.8,0.8,1.0
+#END
+

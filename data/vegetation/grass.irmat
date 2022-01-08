@@ -1,0 +1,13 @@
+#START Material.001
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+shaderProp DIFFUSE_MAP: true
+texture diffuse: grass.png
+#END
+#START Material.002
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+shaderProp DIFFUSE_MAP: true
+texture diffuse: grass.png
+#END
+

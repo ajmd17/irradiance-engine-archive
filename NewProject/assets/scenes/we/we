@@ -1,0 +1,34 @@
+#GPS [0.0, 0.0, 0.0]
+#CAMROT 0.026871458,0.05913427,0.1459523,0.86308813
+#START
+path = Teapot
+location = [44.514652, -17.647709, -48.925194]
+scale = [1.0, 1.0, 1.0]
+rotation = [0.0|0.0|0.0|1.0]
+script = 
+
+#END
+#START
+path = Teapot
+location = [43.65613, -16.238684, -28.696142]
+scale = [1.0, 1.0, 1.0]
+rotation = [0.0|0.0|0.0|1.0]
+script = 
+
+#END
+#START
+path = Teapot
+location = [45.697655, -14.6726465, -12.051145]
+scale = [1.0, 1.0, 1.0]
+rotation = [0.0|0.0|0.0|1.0]
+script = 
+
+#END
+#START
+path = Teapot
+location = [41.058987, -15.258318, -4.5279765]
+scale = [1.0, 1.0, 1.0]
+rotation = [0.0|0.0|0.0|1.0]
+script = 
+
+#END

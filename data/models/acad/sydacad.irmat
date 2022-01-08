@@ -1,0 +1,43 @@
+#START Material.001
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+shaderProp DIFFUSE_MAP: true
+texture diffuse: brick_modern_0123_02_preview (1).jpg
+#END
+#START Material.001_Brick_14_UV_H_CM_1.jpg
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+#END
+#START concrete
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+shaderProp DIFFUSE_MAP: true
+texture diffuse: concrete_clean_0015_02_preview.jpg
+#END
+#START metal
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+#END
+#START metal2
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+shaderProp DIFFUSE_MAP: true
+texture diffuse: metal_bare_0002_02_preview.jpg
+#END
+#START metal_NONE
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+shaderProp DIFFUSE_MAP: true
+texture diffuse: metal_base_0075_02_preview.jpg
+#END
+#START windwos
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+shaderProp DIFFUSE_MAP: true
+texture diffuse: windows_0007_01_preview.jpg
+#END
+#START windwos_Brick_14_UV_H_CM_1.jpg
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+#END
+

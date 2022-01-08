@@ -1,0 +1,10 @@
+#START GLOBAL
+shaderProp ENV_MAP: true
+shaderProp DIFFUSE_MAP: false
+shader: com.irgames.engine.shaders.MockPBRShader
+float specular: 30.0
+color albedo: 0.45,0.0,0.15,1.0
+boolean drawsShadows: false
+float roughness: 0.4
+float metallic: 0.1
+#END

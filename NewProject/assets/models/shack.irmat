@@ -1,0 +1,37 @@
+#START Material.001
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+#END
+#START Material.002
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+#END
+#START Material.003
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+#END
+#START Material.005
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+#END
+#START Material.012
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+#END
+#START Rock.001
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+#END
+#START Roof
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+#END
+#START White
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.640000,0.640000,0.640000,1.0
+#END
+#START Wood
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.075700,0.035163,0.023593,1.0
+#END
+

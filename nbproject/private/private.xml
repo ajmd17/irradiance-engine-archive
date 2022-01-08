@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/game/MatEditorGame.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/terrain/PerlinNoise.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/editor/JRFrame.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/game/TreeModel.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/terrain/ModelTerrainComponent.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/terrain/random/RandomTerrain.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/editor/IRSceneEditor.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/irradianceengine/IrradianceEngine.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/terrain/TerrainComponent.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/pagingengine/TreePopulator.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/shaders/TerrainShader2.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/shadows/DefaultShader.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/game/TestGame.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/terrain/TerrainPatch.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/pagingengine/EntityPopulator.java</file>
+            <file>file:/E:/old/IrradianceEngine2/IrradianceEngine/src/com/irgames/engine/shaders/TerrainShader.java</file>
+        </group>
+    </open-files>
+</project-private>

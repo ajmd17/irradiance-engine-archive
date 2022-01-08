@@ -1,0 +1,9 @@
+#START GLOBAL
+shaderProp UNSHADED: false
+shaderProp DIFFUSE_MAP: true
+shader: com.irgames.engine.shaders.SimpleLit
+float specular: 20.0
+color albedo: 0.0,0.35,0.0,1.0
+texture diffuse: grass_mixed.jpg
+#END
+

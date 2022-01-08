@@ -1,0 +1,67 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl 68FABRIC.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.502000 0.502000 0.533360
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andrew\Downloads\Sports Car (Low poly)-2\Map\68fabric.jpg
+map_Ka C:\\Users\\Andrew\\Downloads\\Sports Car (Low poly)-2\\Map\\68fabric.jpg
+
+newmtl 68REK.001
+Ns 21.568627
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.045000 0.045000 0.045000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andrew\Downloads\Sports Car (Low poly)-2\Map\68rek.jpg
+map_Ka C:\\Users\\Andrew\\Downloads\\Sports Car (Low poly)-2\\Map\\68rek.jpg
+
+newmtl 68basic.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.122320 0.122320 0.122320
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl 68body.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andrew\Downloads\Sports Car (Low poly)-2\Map\68body.jpg
+map_Ka C:\\Users\\Andrew\\Downloads\\Sports Car (Low poly)-2\\Map\\68body.jpg
+map_d C:\\Users\\Andrew\\Downloads\\Sports Car (Low poly)-2\\Map\\68bodyw.jpg
+
+newmtl 68tyre.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470560 0.470560 0.470560
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andrew\Downloads\Sports Car (Low poly)-2\Map\68tyre.jpg
+map_Ka C:\\Users\\Andrew\\Downloads\\Sports Car (Low poly)-2\\Map\\68tyre.jpg
+
+newmtl 68tyresf.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470560 0.470560 0.470560
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:\Users\Andrew\Downloads\Sports Car (Low poly)-2\Map\68tyresf.jpg
+map_Ka C:\\Users\\Andrew\\Downloads\\Sports Car (Low poly)-2\\Map\\68tyresf.jpg

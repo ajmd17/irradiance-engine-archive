@@ -1,0 +1,33 @@
+# Blender MTL File: 'level1.blend'
+# Material Count: 3
+
+newmtl Material.001
+Ns 735.294118
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\Andrew\\Documents\\normtest\\grass_normal.png
+map_Kd C:\\Users\\Andrew\\Pictures\\wood_plywood_new_0010_01_preview.jpg
+
+newmtl Material.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.931579 0.931579 0.931579
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Andrew\\Pictures\\wood_plywood_old_0015_01_preview.jpg
+
+newmtl Material.003
+Ns 578.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.573684 0.573684 0.573684
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Andrew\\Pictures\\tileable-wood-texture-best-design-ideas-4.jpg

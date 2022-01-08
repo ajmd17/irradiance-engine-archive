@@ -1,0 +1,9 @@
+#START Material.017
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.088551,0.029209,0.021275,1.0
+#END
+#START Material.018
+shader: com.irgames.engine.shaders.SimpleLit
+color albedo: 0.061288,0.280444,0.034682,1.0
+#END
+

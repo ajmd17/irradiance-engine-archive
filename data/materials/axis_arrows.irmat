@@ -1,0 +1,18 @@
+#START node_2
+shaderProp UNSHADED: true
+shader: com.irgames.engine.shaders.SimpleLit
+float specular: 20.0
+color albedo: 0.0,1.0,0.0,1.0
+#END
+#START node_3
+shaderProp UNSHADED: true
+shader: com.irgames.engine.shaders.SimpleLit
+float specular: 20.0
+color albedo: 0.0,0.0,1.0,1.0
+#END
+#START node_4
+shaderProp UNSHADED: true
+shader: com.irgames.engine.shaders.SimpleLit
+float specular: 20.0
+color albedo: 1.0,0.0,0.0,1.0
+#END
